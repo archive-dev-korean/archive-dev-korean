@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, SQL
 - 🎪 I’m from Seoul/Korea
 - 📙 I have Aws Technical Essentials certification
-- 📠 I had been internship in (주)천재교육 
+- 📠 I was an intern at (주)천재교육
 
 
 <!---
