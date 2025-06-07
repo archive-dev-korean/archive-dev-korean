@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @archive-dev-korean
+# 👋 Hi, I’m archive master
 - 👀 I’m interested in AI, Big Data, Python
 - 🌱 I’m currently learning Python, SQL
+- 🎪 I’m from Seoul/Korea
 
 
 <!---
