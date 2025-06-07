@@ -1,5 +1,5 @@
 # 👋 Hi, I’m archive master
-- 👀 I’m interested in AI, Big Data, Python
+- 👀 I’m interested in AI, Big Data, Python, Cloud Computing included AWS
 - 🌱 I’m currently learning Python, SQL
 - 🎪 I’m from Seoul/Korea
 
