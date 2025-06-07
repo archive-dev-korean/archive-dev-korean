@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Big Data, Python, Cloud Computing included AWS
 - 🌱 I’m currently learning Python, SQL
 - 🎪 I’m from Seoul/Korea
-- 📙 I have Aws Technical Essentials certification
+- 📙 I completed the AWS Technical Essentials course
 - 📠 I was an intern at (주)천재교육
 
 
