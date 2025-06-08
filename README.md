@@ -4,6 +4,7 @@
 - 🎪 I’m from Seoul/Korea
 - 📙 I completed the AWS Technical Essentials course
 - 📠 I was an intern at (주)천재교육
+- 📌 I have a bachelor's degree in computer engineering.
 
 
 <!---
