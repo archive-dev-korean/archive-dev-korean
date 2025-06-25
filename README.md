@@ -1,3 +1,4 @@
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Farchive-dev-korean?color=green&label=hits&size=small)](https://myhits.vercel.app)
 # 👋 Hi, I’m archive master
 - 👀 I’m interested in AI, Big Data, Python, Cloud Computing included AWS
 - 🌱 I’m currently learning Python, SQL
