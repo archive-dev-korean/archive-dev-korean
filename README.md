@@ -7,7 +7,7 @@
 - 📠 I was an intern at (주)천재교육
 - 📌 I have a bachelor's degree in computer engineering.
 
-
+- 8월 23일 sqld 시험
 <!---
 archive-dev-korean/archive-dev-korean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
