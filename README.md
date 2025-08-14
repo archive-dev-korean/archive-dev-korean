@@ -1,5 +1,7 @@
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Farchive-dev-korean?color=green&label=hits&size=small)](https://myhits.vercel.app)</br>
 <!-- [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=archive-dev-korean)](https://github.com/archive-dev-korean/github-readme-stats) -->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archive-dev-korean)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archive-dev-korean&layout=compact)
 # 👋 Hi, I’m archive master
 - 👀 I’m interested in AI, Big Data, Python, Cloud Computing included AWS
 - 🌱 I’m currently learning Python, SQL
