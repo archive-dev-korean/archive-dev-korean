@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archive-dev-korean&layout=compact&v=2)
 # 👋 Hi, I’m archive master
 - 👀 I’m interested in AI, Big Data, Python, Cloud Computing included AWS
-- 🌱 I’m currently learning Python, SQL, Algorithm
+- 🌱 I’m currently learning Python, SQL, Algorithm, Cloudsystem
 - 🎪 I’m from Seoul/Korea
 - 📙 I completed the AWS Technical Essentials course
 - 📠 I was an intern at (주)천재교육
