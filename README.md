@@ -8,7 +8,7 @@
 - 🎪 I’m from Seoul/Korea
 - 📙 I completed the AWS Technical Essentials course
 - 📠 I was an intern at (주)천재교육
-- 📌 I have a bachelor's degree in computer engineering.
+- 📌 I have a Bachelor's degree in computer engineering.
 - 👉 Portfolio : https://magical-rate-172.notion.site/d2a7195f6c3d4bbca256164c30a8ab46
 <!---
 archive-dev-korean/archive-dev-korean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
