@@ -5,7 +5,7 @@
 # 👋 Hi, I’m archive master
 - 👀 I’m interested in AI, Big Data, Python, Cloud Computing included AWS, Data engineering
 - 🌱 I’m currently learning Python, SQL, Algorithm, Cloudcomputing
-- 🎪 I’m from Seoul/Korea
+- 🎪 I’m from Seoul/Korea.
 - 📙 I completed the AWS Technical Essentials course
 - 🪪 I have SQL Developer (SQLD) Certification
 - 📠 I was an intern at (주)천재교육
