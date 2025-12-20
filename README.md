@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archive-dev-korean&layout=compact&v=2)
 # 👋 Hi, I’m archive master
 - 👀 I’m interested in AI, Big Data, Python, Cloud Computing included AWS, Data engineering.
-- 🌱 I’m currently learning Python, SQL, Algorithm, Cloudcomputing.
+- 🌱 I’m currently learning Python, SQL, Algorithm, Cloudcomputing, AWS SAA Certificatoin.
 - 🎪 I’m from Seoul/Korea.
 - 📙 I completed the AWS Technical Essentials course.
 - 📋 I have SQL Developer (SQLD) Certification.
