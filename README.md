@@ -1,6 +1,6 @@
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Farchive-dev-korean?color=green&label=hits&size=small)](https://myhits.vercel.app)</br>
-<!-- [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=archive-dev-korean)](https://github.com/archive-dev-korean/github-readme-stats) -->
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archive-dev-korean)-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/340x340/images/0e2843c0-6ebd-4f30-ae14-5b3c2b2b1a4a.png)](https://www.credly.com/badges/feefefa5-8944-4645-be9f-d2f2b79523b3/public_url)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archive-dev-korean&layout=compact&v=2)
 # 👋 Hi, I’m archive master
 - 👀 I’m interested in AI, Big Data, Python, Cloud Computing included AWS, Data engineering.
