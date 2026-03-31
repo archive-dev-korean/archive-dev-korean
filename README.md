@@ -11,6 +11,7 @@
 - 📋 I have AWS Solutions Architect -Associate Certification.
 - 📠 I was an intern at (주)천재교육.
 - 📌 I have a Bachelor's degree in Computer engineering.(B.S. in Computer Engineering)
+- 🎡 My Blog : https://velog.io/@imrtghn/posts
 <!---
 - 👉 Portfolio : https://magical-rate-172.notion.site/d2a7195f6c3d4bbca256164c30a8ab46
 archive-dev-korean/archive-dev-korean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
